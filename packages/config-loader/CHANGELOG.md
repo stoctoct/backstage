@@ -1,5 +1,16 @@
 # @backstage/config-loader
 
+## 1.8.2-next.1
+
+### Patch Changes
+
+- 1edd6c2: The `env` option of `ConfigSources.default` now correctly allows undefined members.
+- Updated dependencies
+  - @backstage/cli-common@0.1.14
+  - @backstage/config@1.2.0
+  - @backstage/errors@1.2.4
+  - @backstage/types@1.1.1
+
 ## 1.8.2-next.0
 
 ### Patch Changes

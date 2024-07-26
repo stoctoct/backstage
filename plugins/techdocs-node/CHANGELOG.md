@@ -1,5 +1,20 @@
 # @backstage/plugin-techdocs-node
 
+## 1.12.9-next.1
+
+### Patch Changes
+
+- 949083d: Update `patchMkdocsYmlPrebuild` to modify `repo_url` and `edit_uri` independently.
+- Updated dependencies
+  - @backstage/backend-common@0.23.4-next.1
+  - @backstage/integration@1.14.0-next.0
+  - @backstage/integration-aws-node@0.1.12
+  - @backstage/backend-plugin-api@0.7.1-next.1
+  - @backstage/catalog-model@1.5.0
+  - @backstage/config@1.2.0
+  - @backstage/errors@1.2.4
+  - @backstage/plugin-search-common@1.2.13
+
 ## 1.12.9-next.0
 
 ### Patch Changes

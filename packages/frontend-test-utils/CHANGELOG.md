@@ -1,5 +1,16 @@
 # @backstage/frontend-test-utils
 
+## 0.1.12-next.1
+
+### Patch Changes
+
+- 6349099: Added config input type to the extensions
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.6.8-next.1
+  - @backstage/frontend-app-api@0.7.5-next.1
+  - @backstage/test-utils@1.5.10-next.0
+  - @backstage/types@1.1.1
+
 ## 0.1.11-next.0
 
 ### Patch Changes
